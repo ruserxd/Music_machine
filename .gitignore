@@ -1,0 +1,4 @@
+# Ignore music files
+*.mp3
+*.wav
+*.ogg
